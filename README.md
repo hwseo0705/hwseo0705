@@ -1,4 +1,4 @@
-### 👋 Hi there
+## 👋 Hi there
 ### ✨ My name is Haewon Julie Seo
 ### 🌱 Welcome to my Github :)
 ### 📫 Email: julieseo0705@gmail.com

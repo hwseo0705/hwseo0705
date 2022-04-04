@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+### My name is Haewon Julie Seo
+### Welcome to my Github :)
+### Email: julieseo0705@gmail.com
+### 
 <!--
 **hwseo0705/hwseo0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
